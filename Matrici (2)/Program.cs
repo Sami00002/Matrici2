@@ -27,7 +27,7 @@ namespace Matrici__2_
 
                     Console.Write(matrix[row, col] + "\t");
 
-
+                    
 
                 }
                 Console.WriteLine();
